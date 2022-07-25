@@ -2,7 +2,11 @@
 
 Use Vue3 and Tailwind to build a little Tic-Tac-Toe Game.
 
-### Install
+## Enjoy Game
+
+Go to [Website](https://tic-tac-toe-bybarz.netlify.app/) to enjoy this little game.
+
+### Clone & Install
 
 Download or Clone first. Recommend to use clone:
 
